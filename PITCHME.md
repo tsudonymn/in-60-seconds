@@ -4,7 +4,7 @@
 
 ## What it looks like
 ![](https://cdn-images-1.medium.com/max/2400/1*e1bMa2Q-hVumzGJO27jM5g.jpeg)
---
+---
 ## The basics
 ![](https://cdn-images-1.medium.com/max/2400/1*8bNQTmmlntxBq2598Lo9Dg.jpeg)
 ---
